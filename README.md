@@ -4,6 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nayem-ahmed&label=Profile%20views&color=0e75b6&style=flat" alt="nayem-ahmed" /> </p>
 
 - 📫 How to reach me **webdevnayem@gmail.com**
+- 🔭 I’m currently working on
+- 🌱 I’m currently learning
+- 💬 Ask me about
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

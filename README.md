@@ -17,10 +17,13 @@
 
 - ⚡ Fun fact **I am Funny**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-
-
+  <a href="[https://facebook.com/YourFacebookProfile](https://www.facebook.com/nayem.mdnayem.39395)">
+    <img src="https://img.shields.io/badge/Facebook-Follow-blue" alt="Facebook Follow">
+  </a>
+  <a href="[https://linkedin.com/in/YourLinkedInProfile](https://www.linkedin.com/in/nayem-ahmed-75106b2a7/)"> <!-- Replace YourLinkedInProfile with your LinkedIn profile URL -->
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue" alt="LinkedIn Connect">
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
